@@ -60,6 +60,21 @@ fn main() {
 
 	//colocar a variavel mut dá para rescreve-la mesmo quando é copiada e "perdida"
 
+
+	//quando colocamos uma referencia como argumento de uma função nao roubamos o ownership mas sim emprestamos(borrow)
+
+	let s4 = String::from("hello");
+    let len = calculate_length(&s4);
+
+    println!("The length of {} is {}.", s4, len);
+
+    //metodo as_bytes() converte cada elemento de uma string num array de bytes
+    //podemos apagar uma string usando o metodo .clean()
+}
+
+fn calculate_length(x: &String) -> usize
+{
+	x.len()
 }
 
 fn possible(y: String) -> String
