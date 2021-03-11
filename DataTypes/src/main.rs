@@ -2,25 +2,25 @@ fn main()
 {
 	//Integers
 	//problems with pow function
-	/*let min_value_i8 : i8 = -(i8::pow(2, 8-1));
-	let max_value_i8 : i8 = 2i8.pow(8-1)-1;
+	let min_value_i8 : i8 = -128;
+	let max_value_i8 : i8 = 127;
 	let min_value_u_type : u8 = 0;
-	let max_value_u8 : u8 = 2u8.pow(8)-1;
-	let min_value_i16 : i16 = -(2i16.pow(16-1));
-	let max_value_i16 : i16 = 2i16.pow(16-1);
-	let max_value_u16 : u16 = 2u16.pow(16)-1;
-	let min_value_i32 : i32 = -(2i32.pow(32-1));
-	let max_value_i32 : i32 = 2i32.pow(32-1);
-	let max_value_u32 : u32 = 2u32.pow(32)-1;
-	let min_value_i64 : i64 = -(2i64.pow(64-1));
-	let max_value_i64 : i64 = 2i64.pow(64-1);
-	let max_value_u64 : u64 = 2u64.pow(64)-1;
-	let min_value_i128 : i128 = -(2i128.pow(128-1));
-	let max_value_i128 : i128 = 2i128.pow(128-1);
-	let max_value_u128 : u128 = 2u128.pow(128)-1;*/
+	let max_value_u8 : u8 = 255;
+	let min_value_i16 : i16 = -32768;
+	let max_value_i16 : i16 = 32767;
+	let max_value_u16 : u16 = 65535;
+	let min_value_i32 : i32 = -2147483648;
+	let max_value_i32 : i32 = 2147483647;
+	let max_value_u32 : u32 = 4294967295;
+	let min_value_i64 : i64 = -9223372036854775808;
+	let max_value_i64 : i64 = 9223372036854775807;
+	let max_value_u64 : u64 = 18446744073709551615;
+	let min_value_i128 : i128 = -170141183460469231731687303715884105728;
+	let max_value_i128 : i128 = 170141183460469231731687303715884105727;
+	let max_value_u128 : u128 = 340282366920938463463374607431768211455 ;
 
 	println!("Integers");
-	/*println!("min_value_i8: {:?}", min_value_i8);
+	println!("min_value_i8: {:?}", min_value_i8);
 	println!("max_value_i8: {:?}", max_value_i8);
 	println!("min_value_i16: {:?}", min_value_i16);
 	println!("max_value_i16: {:?}", max_value_i16);
@@ -29,7 +29,7 @@ fn main()
 	println!("min_value_i64: {:?}", min_value_i64);
 	println!("max_value_i64: {:?}", max_value_i64);
 	println!("min_value_i128: {:?}", min_value_i128);
-	println!("max_value_i128: {:?}", max_value_i128);println!("max_value_i8: {:?}", max_value_i8);
+	println!("max_value_i128: {:?}", max_value_i128);
 	println!("min_value_i16: {:?}", min_value_i16);
 	println!("max_value_i16: {:?}", max_value_i16);
 	println!("min_value_i32 {:?}", min_value_i32);
@@ -45,13 +45,6 @@ fn main()
 	println!("max_value_u32: {:?}", max_value_u32);
 	println!("max_value_u64: {:?}", max_value_u64);
 	println!("max_value_u128: {:?}", max_value_u128);
-
-	println!("min_value_u_type: {:?}", min_value_u_type);
-	println!("max_value_u8: {:?}", max_value_u8);
-	println!("max_value_u16: {:?}", max_value_u16);
-	println!("max_value_u32: {:?}", max_value_u32);
-	println!("max_value_u64: {:?}", max_value_u64);
-	println!("max_value_u128: {:?}", max_value_u128);*/
 
 	//tupulos
 	let x: (i32, f64, u8) = (500, 6.4, 1);
