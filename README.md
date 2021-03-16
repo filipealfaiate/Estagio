@@ -11,3 +11,6 @@ inicio do estudo do capitulo 4 do livro rust, aprendi sobre alguns tipos de vari
 
 Dia 11/03
 reunião com o orientador que me orientou com algumas duvidas que tinha nos pontos passados e saber o ponto de situação do estudo da linguagem Rust. Após a reunião, estudei o capitulo 5 sobre struct.
+
+16/03
+conclusao do capitulo 6, conhecimento absorvido mas ainda com pouca pratica.
