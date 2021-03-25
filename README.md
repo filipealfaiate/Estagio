@@ -14,3 +14,15 @@ reunião com o orientador que me orientou com algumas duvidas que tinha nos pont
 
 16/03
 conclusao do capitulo 6, conhecimento absorvido mas ainda com pouca pratica.
+
+18/03
+conclusao do capitulo 7, gerir o crescimento dos projectos com packages, crates e modulos.
+
+22/03
+conclusao do capitulo 8, adquirir conhecimento mais aprofundado de vetores, strings e hashtables.
+
+23/03
+conclusao do capitulo 9, explicação como lidar com erros do programa usando o comando panic ou o comando Result.
+
+24/03
+criação de um projecto pessoal em Rust para aplicar conhecimentos adquiridos. Concretizei o jogo do galo, tive algumas dificuldades devido à novidade da lingua mas nada que nao tenha sido superado consultando alguns exercicios que realizei anteriormente.
