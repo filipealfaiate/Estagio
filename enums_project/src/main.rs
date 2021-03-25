@@ -29,13 +29,17 @@ fn main()
 	println!("\n{:#?}", w);
 	println!("\n{:#?}", c);
 
-	let _some_num = Some(5);
-	let _some_str = Some("string");
+	let some_num = Some(5);
+	//let some_str = Some("string");
 	//let absent_num: Option<i32> = None;
 
 	//let x: Option<i8> = Some(5);
 
 	//let sum = some_num + x;
+
+	let soma = some_num.unwrap() + 1;
+
+	println!("{:?}", soma);
 
 	let coin = Coin::Penny;
 
@@ -169,3 +173,5 @@ fn plus_one(x: Option<i32>) -> Option<i32>
 		Some(i) => Some(i+1),
 	}
 }
+
+//unwrap
