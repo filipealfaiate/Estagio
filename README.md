@@ -26,3 +26,6 @@ conclusao do capitulo 9, explicação como lidar com erros do programa usando o 
 
 24/03
 criação de um projecto pessoal em Rust para aplicar conhecimentos adquiridos. Concretizei o jogo do galo, tive algumas dificuldades devido à novidade da lingua mas nada que nao tenha sido superado consultando alguns exercicios que realizei anteriormente.
+
+13/05
+leitura de ficheiros solucionada, passar agumento do nome do ficheiro pela linha de comandos, fica a faltar olhar para o program counter, e terminar as instruçoes.
