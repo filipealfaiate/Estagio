@@ -28,4 +28,10 @@ conclusao do capitulo 9, explicação como lidar com erros do programa usando o 
 criação de um projecto pessoal em Rust para aplicar conhecimentos adquiridos. Concretizei o jogo do galo, tive algumas dificuldades devido à novidade da lingua mas nada que nao tenha sido superado consultando alguns exercicios que realizei anteriormente.
 
 13/05
-leitura de ficheiros solucionada, passar agumento do nome do ficheiro pela linha de comandos, fica a faltar olhar para o program counter, e terminar as instruçoes.
+leitura de ficheiros solucionada, passar argumento do nome do ficheiro pela linha de comandos, fica a faltar olhar para o program counter, e terminar as instruçoes.
+
+14/05
+program counter concluido, as intrucoes ja estao em memoria e capaz de ser lidas com o program counter
+
+31/05
+todas as instruçoes terminada. os stores e os loads deram algum trabalho porque sao diferentes das outras instruçoes mas nada de mais

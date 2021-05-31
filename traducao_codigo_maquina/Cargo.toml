@@ -1,0 +1,14 @@
+[package]
+name = "traducao_codigo_maquina"
+version = "0.1.0"
+authors = ["filipealfaiate <filalfa1.fa@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+parse_int = { version = "0.5", features = ["implicit-octal"] }
+iowrap = "0.2.0"
+byteorder = "1.4.3"
+queues = "1.0.2"
+lazy_static = "1.4.0"
