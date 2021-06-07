@@ -9,6 +9,3 @@ edition = "2018"
 [dependencies]
 parse_int = { version = "0.5", features = ["implicit-octal"] }
 iowrap = "0.2.0"
-byteorder = "1.4.3"
-queues = "1.0.2"
-lazy_static = "1.4.0"

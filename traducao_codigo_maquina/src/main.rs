@@ -1,5 +1,4 @@
 mod processor;
-extern crate queues;
 use crate::processor::Processor;
 use std::collections::HashMap;
 use std::convert::TryInto;
