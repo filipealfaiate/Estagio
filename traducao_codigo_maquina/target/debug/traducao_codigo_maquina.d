@@ -1,1 +1,0 @@
-/home/filipe/Desktop/Est-gio/traducao_codigo_maquina/target/debug/traducao_codigo_maquina: /home/filipe/Desktop/Est-gio/traducao_codigo_maquina/src/main.rs /home/filipe/Desktop/Est-gio/traducao_codigo_maquina/src/processor.rs
